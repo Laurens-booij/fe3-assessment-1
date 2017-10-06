@@ -1,4 +1,4 @@
-# Bar chart
+# [Bar chart][project]
 ## Description
 Bar chart based on [Block 6476579][block] by [Justin Palmer][author]. Check out the project [here][project].
 
