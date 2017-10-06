@@ -1,6 +1,6 @@
 # Bar chart
 ## Description
-Bar chart based on [Block 6476579][block] by [Justin Palmer][author].
+Bar chart based on [Block 6476579][block] by [Justin Palmer][author]. Check out the project [here][project].
 
 ## Background
 The file types that are included are:
@@ -40,4 +40,5 @@ No license from orginal author.
 
 [author]:https://bl.ocks.org/Caged
 [block]: http://bl.ocks.org/Caged/6476579
+[project]: https://laurens-booij.github.io/fe3-assessment-1/
 
